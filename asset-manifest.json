@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dukaan/static/css/main.dde40971.css",
+    "main.js": "/Dukaan/static/js/main.e7b69659.js",
+    "static/js/787.0420ccf9.chunk.js": "/Dukaan/static/js/787.0420ccf9.chunk.js",
+    "static/media/Rectangle 126.png": "/Dukaan/static/media/Rectangle 126.b1cc5b1e76a1e3e2cd89.png",
+    "static/media/logo.png": "/Dukaan/static/media/logo.eab28f74dd75f32e12a6.png",
+    "index.html": "/Dukaan/index.html",
+    "main.dde40971.css.map": "/Dukaan/static/css/main.dde40971.css.map",
+    "main.e7b69659.js.map": "/Dukaan/static/js/main.e7b69659.js.map",
+    "787.0420ccf9.chunk.js.map": "/Dukaan/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde40971.css",
+    "static/js/main.e7b69659.js"
+  ]
+}
